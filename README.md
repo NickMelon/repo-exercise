@@ -1,1 +1,2 @@
-# repo-exercise
+Adrian
+Programming Fundamentals in Swift
